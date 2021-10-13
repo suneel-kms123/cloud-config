@@ -4,3 +4,5 @@ server:
 spring:
   application:
     name: admin-dashboard
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
